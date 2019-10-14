@@ -1,0 +1,9 @@
+legend {
+    text-align: center;
+}
+
+.regio {
+    float: left;
+    width: 46%;
+    margin: 0 5px;
+}
